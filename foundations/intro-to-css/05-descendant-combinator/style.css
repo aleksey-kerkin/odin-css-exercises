@@ -1,0 +1,9 @@
+div p {
+  color: rgba(175, 0, 255, 0.5);
+  background-color: rgba(175, 255, 0, 0.75);
+  font-size: 2rem;
+}
+
+.container .text {
+  text-align: center;
+}
